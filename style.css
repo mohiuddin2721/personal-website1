@@ -1,0 +1,59 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+h3{
+    font-size: 40px;
+    color: #e65fb2;
+}
+.half-width{
+    width: 30%;
+    margin: 1px 132px;
+    float: left;
+    margin-top: 50px;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, blue, red);
+    color: white;
+    border-radius: 15px;
+    padding: 10px 20px;
+}
+.top-banner{
+    background-image: url(header-bg.png);
+    background-position: left;
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
+.Biography{
+    background-image: url(biography-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.work img{
+    width: 30%;
+    margin-left: 30px;
+}
+.work h2{
+    text-align: center;
+}
+footer p{
+    text-align: center;
+}
+.client{
+    text-align: center;
+    padding: 1px 475px;
+}
+.contact{
+    border: 1px solid violet;
+    width: 300px;
+    text-align: center;
+    background-color: #f12383;
+    color: white;
+    margin: 1px 520px;
+    border-radius: 10px;
+}
