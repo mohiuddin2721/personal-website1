@@ -8,7 +8,10 @@ h3{
 .half-width{
     width: 30%;
     float: left;
-    margin-top: 50px;
+    margin-top: 50px; 
+}
+.first-side{
+    margin-left: 300px;
 }
 .half-width img{
     width: 100%;
@@ -20,14 +23,8 @@ h3{
     border-radius: 15px;
     padding: 10px 20px;
 }
-.left-side{
-    margin-right: 1px;
-}
-.right-side{
-    margin-left: 1px;
-}
 .top-banner{
-    background-image: url(header-bg.png);
+    background-image: url(images/header-bg.png);
     background-position: left;
     background-repeat: no-repeat;
 }
@@ -35,7 +32,7 @@ section{
     height: 500px;
 }
 .Biography{
-    background-image: url(biography-bg.png);
+    background-image: url(images/biography-bg.png);
     background-repeat: no-repeat;
     background-position: left;
 }
